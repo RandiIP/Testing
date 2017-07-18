@@ -1,0 +1,12 @@
+---
+title: "A Second File"
+author: "Randi Istrup Pedersen"
+date: "18 jul 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Something else I might need
