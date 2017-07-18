@@ -1,0 +1,12 @@
+---
+title: "Basic Description"
+author: "Randi Istrup Pedersen"
+date: "18 jul 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here's some stuff to start things off.
